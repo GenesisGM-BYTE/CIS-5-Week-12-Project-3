@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 
-// Project 3 — Your Name
+// Project 3 — 
 // CIS 5 Week 12 · Fifty students
 // Do not edit the boilerplate. It randomly generates 50 scores.
 // Do not type scores or names into this file.
